@@ -1,4 +1,4 @@
-function amIsexy(name){
+function amIsexy(!name){
     return name === 'Samuel';
 }
 
